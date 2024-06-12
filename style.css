@@ -16,4 +16,7 @@ button {
     left: 50%;
     transform: translateX(-50%);
 }
-
+body {
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/2022-bmw-m3-competition-xdrive-110-1618601677.jpg?crop=0.641xw:0.721xh;0.0224xw,0.190xh&resize=768:*");
+    background-size: cover;
+}
